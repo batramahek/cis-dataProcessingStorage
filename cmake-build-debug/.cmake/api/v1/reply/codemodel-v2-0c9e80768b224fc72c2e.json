@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cis_dataProcessingStorage",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cis_dataProcessingStorage::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cis_dataProcessingStorage-Debug-9a42f6b830d3a36836ef.json",
+					"name" : "cis_dataProcessingStorage",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/mahekbatra/Desktop/UF/UF classes/fall 2024/cis4930 enterprise sw eng/cis-dataProcessingStorage/cmake-build-debug",
+		"source" : "/Users/mahekbatra/Desktop/UF/UF classes/fall 2024/cis4930 enterprise sw eng/cis-dataProcessingStorage"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
