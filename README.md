@@ -12,6 +12,7 @@ This repository implements an in-memory key-value database with transactions. Th
 Navigate to the directory containing the cocde and run the following command to compile the code:
 
 ``` g++ -o memoryDB transactions.cpp ```
+
 ``` ./memoryDB ```
 
 ## Assignment Modification Suggestions
