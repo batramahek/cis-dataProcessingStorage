@@ -12,3 +12,8 @@ This repository implements an in-memory key-value database with transactions. Th
 Navigate to the directory containing the cocde and run the following command to compile the code:
 ''' g++ -o memoryDB transactions.cpp
 
+## Assignment Modification Suggestions
+1. Additional Methods: introduce more complex functions, such as nested transactions or a requirement to support various data types.
+2. Documentation: encourage students to include more detailed documentation/comments within their code to improve readability.
+3. Ask students to create a simple command line interface or graphical user interface to interact with the database to enhance usability and user experience.
+
